@@ -1,0 +1,201 @@
+Employee_ID,Age,Gender,Department,Job_Role,Pre_Stress_Level,Pre_Exercise_Frequency,Pre_Smoking_Status,Pre_BMI,Pre_Mental_Health_Score,Post_Stress_Level,Post_Exercise_Frequency,Post_Smoking_Status,Post_BMI,Post_Mental_Health_Score
+1,52,Female,Engineering,Engineer,5,5,Non-Smoker,34.9,10,3,7,Non-Smoker,32.65035742,10
+2,36,Female,Sales,Manager,9,5,Smoker,18.9,4,8,7,Smoker,18.5,5
+3,35,Male,Finance,Financial Analyst,8,2,Non-Smoker,21.5,4,8,3,Non-Smoker,20.23393164,7
+4,24,Female,Finance,Financial Analyst,9,0,Smoker,23.9,10,7,2,Smoker,23.85476566,10
+5,63,Male,Sales,Sales Executive,7,4,Non-Smoker,32.6,7,6,7,Non-Smoker,31.97431717,9
+6,64,Male,Finance,Accountant,4,4,Non-Smoker,21.5,4,4,4,Non-Smoker,20.73502963,5
+7,58,Male,Sales,Manager,5,4,Smoker,31.6,4,3,6,Non-Smoker,29.9456899,4
+8,35,Male,Finance,Financial Analyst,10,4,Non-Smoker,32.7,8,10,5,Non-Smoker,32.4545575,8
+9,46,Male,Engineering,Technician,9,2,Smoker,26.3,9,8,2,Smoker,23.88677387,10
+10,47,Female,Engineering,Engineer,10,3,Non-Smoker,29.2,4,9,5,Non-Smoker,27.03194086,5
+11,48,Female,Finance,Accountant,10,5,Smoker,23.9,5,7,6,Smoker,23.18784357,7
+12,26,Female,HR,HR Manager,5,5,Non-Smoker,26.2,6,2,7,Non-Smoker,25.11328191,6
+13,48,Male,HR,HR Manager,5,0,Smoker,34,8,2,2,Smoker,33.14762739,8
+14,49,Male,Sales,Sales Executive,9,4,Smoker,22.6,6,6,5,Smoker,21.72967506,6
+15,30,Female,Engineering,Senior Engineer,8,1,Smoker,18.9,4,8,1,Smoker,18.5,7
+16,50,Female,Finance,Accountant,10,0,Non-Smoker,34.5,10,7,3,Non-Smoker,32.21371008,10
+17,56,Male,Finance,Financial Analyst,8,4,Non-Smoker,22.8,10,5,4,Non-Smoker,22.09105287,10
+18,29,Female,Engineering,Engineer,6,2,Smoker,29.3,5,4,2,Smoker,27.1303817,8
+19,47,Male,HR,Recruiter,5,5,Non-Smoker,19.7,8,5,6,Non-Smoker,18.5,8
+20,28,Male,HR,Recruiter,9,0,Smoker,34.5,10,7,3,Smoker,34.03853219,10
+21,63,Female,HR,Recruiter,9,1,Non-Smoker,33.7,6,8,1,Non-Smoker,33.13193381,8
+22,30,Male,HR,Recruiter,5,1,Non-Smoker,32.8,4,3,2,Non-Smoker,31.13593541,4
+23,40,Male,Engineering,Technician,6,1,Non-Smoker,25.5,5,4,1,Non-Smoker,24.32980186,6
+24,57,Male,Sales,Sales Executive,9,4,Non-Smoker,31.4,5,7,5,Non-Smoker,31.12589984,8
+25,35,Female,Finance,Financial Analyst,6,5,Smoker,23.4,7,6,7,Non-Smoker,23.03587926,9
+26,38,Male,Sales,Sales Executive,6,4,Smoker,23.3,9,3,6,Smoker,22.50706417,10
+27,64,Female,Finance,Accountant,7,3,Smoker,35,7,7,5,Smoker,33.4819925,9
+28,60,Male,HR,HR Manager,10,2,Smoker,34.8,6,7,4,Smoker,32.43246184,9
+29,33,Female,Finance,Accountant,4,2,Non-Smoker,26.4,7,4,5,Non-Smoker,25.34353458,8
+30,36,Female,Finance,Accountant,8,0,Non-Smoker,31.1,6,5,0,Non-Smoker,28.78377855,9
+31,53,Female,Finance,Accountant,9,5,Non-Smoker,23.9,10,9,5,Non-Smoker,23.65089727,10
+32,63,Female,Sales,Sales Executive,5,2,Non-Smoker,22.4,7,4,3,Non-Smoker,20.2342776,7
+33,28,Male,Engineering,Technician,4,5,Non-Smoker,28.7,8,3,5,Non-Smoker,28.04877942,10
+34,30,Male,Engineering,Senior Engineer,4,2,Smoker,24.1,5,4,3,Smoker,23.389919,6
+35,62,Male,Finance,Financial Analyst,10,0,Non-Smoker,19.5,9,7,0,Non-Smoker,19.08535498,9
+36,31,Female,Finance,Financial Analyst,10,3,Non-Smoker,34.7,8,10,3,Non-Smoker,34.62510843,8
+37,44,Male,HR,Recruiter,4,3,Smoker,29.9,8,1,3,Non-Smoker,29.6547034,10
+38,48,Male,Engineering,Senior Engineer,9,5,Smoker,32.7,8,8,6,Smoker,32.40035562,10
+39,28,Female,Sales,Sales Executive,8,2,Smoker,26.1,9,8,3,Smoker,25.61462473,10
+40,48,Male,Finance,Financial Analyst,4,2,Non-Smoker,20.6,6,2,5,Non-Smoker,18.52601851,7
+41,53,Male,HR,HR Manager,9,2,Smoker,29.7,10,8,5,Non-Smoker,29.66171435,10
+42,59,Female,Sales,Sales Executive,5,0,Non-Smoker,18.8,6,5,3,Non-Smoker,18.5,6
+43,46,Male,Sales,Manager,7,4,Smoker,21.2,7,7,6,Non-Smoker,18.91410998,9
+44,55,Female,HR,HR Manager,5,5,Non-Smoker,33.3,6,4,7,Non-Smoker,33.26178584,8
+45,50,Female,Finance,Accountant,8,3,Smoker,21,8,8,5,Smoker,20.2258725,8
+46,26,Female,Finance,Accountant,5,2,Smoker,22.8,4,3,5,Smoker,21.72874328,5
+47,29,Male,Engineering,Senior Engineer,5,4,Smoker,22.5,6,3,6,Smoker,21.09467234,9
+48,33,Male,Sales,Manager,8,0,Smoker,23.6,4,5,0,Non-Smoker,21.29808633,7
+49,34,Male,Sales,Manager,7,5,Smoker,22.2,4,4,5,Smoker,20.90769395,4
+50,39,Male,Engineering,Technician,6,4,Non-Smoker,19,4,6,5,Non-Smoker,18.5,7
+51,54,Female,Engineering,Technician,9,0,Non-Smoker,33.4,7,7,0,Non-Smoker,31.85538464,8
+52,48,Male,Engineering,Engineer,8,5,Non-Smoker,34.3,10,5,7,Non-Smoker,33.78562623,10
+53,46,Male,Engineering,Technician,9,0,Smoker,34.1,6,6,0,Smoker,32.8282774,6
+54,59,Male,Sales,Manager,6,2,Smoker,26,7,6,2,Non-Smoker,25.84734413,9
+55,42,Male,HR,HR Manager,7,4,Non-Smoker,25.7,5,5,7,Non-Smoker,23.76374468,7
+56,36,Female,HR,HR Manager,4,5,Smoker,19.3,10,2,6,Smoker,18.78938284,10
+57,62,Female,Engineering,Engineer,9,5,Non-Smoker,24.4,5,8,5,Non-Smoker,22.25731601,8
+58,47,Male,Finance,Financial Analyst,7,4,Smoker,33.3,7,6,4,Non-Smoker,32.01557046,8
+59,52,Female,Finance,Accountant,10,2,Smoker,24.6,5,9,2,Smoker,23.97094663,6
+60,37,Male,HR,Recruiter,9,5,Smoker,26.8,9,6,5,Non-Smoker,24.76812638,10
+61,51,Male,HR,HR Manager,5,5,Non-Smoker,27.2,5,2,7,Non-Smoker,27.03249361,5
+62,27,Male,Finance,Accountant,10,4,Smoker,21.3,6,8,5,Smoker,21.2345163,7
+63,64,Female,Finance,Financial Analyst,4,5,Non-Smoker,27.4,5,2,6,Non-Smoker,25.90935922,6
+64,29,Male,HR,Recruiter,9,3,Smoker,20.3,7,7,3,Smoker,18.5,8
+65,43,Male,Engineering,Technician,8,3,Non-Smoker,28.6,6,8,6,Non-Smoker,27.4690021,6
+66,43,Male,HR,Recruiter,6,3,Smoker,27.5,5,4,4,Smoker,26.24455672,6
+67,60,Female,Finance,Accountant,7,2,Non-Smoker,22.3,4,6,5,Non-Smoker,21.77585098,4
+68,52,Male,Finance,Financial Analyst,7,3,Smoker,33.4,4,7,4,Smoker,31.61103452,6
+69,38,Male,Finance,Accountant,4,4,Smoker,21.8,10,1,4,Smoker,20.45904987,10
+70,55,Female,HR,HR Manager,7,3,Non-Smoker,25.5,8,5,5,Non-Smoker,25.37715143,10
+71,25,Male,Engineering,Technician,7,5,Non-Smoker,33.1,5,4,7,Non-Smoker,31.0432128,7
+72,34,Male,Finance,Accountant,6,1,Smoker,22.4,9,3,2,Smoker,21.76875884,10
+73,26,Male,Engineering,Senior Engineer,4,3,Smoker,23.3,5,4,6,Smoker,21.99637767,6
+74,46,Female,Finance,Financial Analyst,8,2,Smoker,33,4,5,4,Non-Smoker,32.18251975,7
+75,43,Female,HR,Recruiter,7,0,Non-Smoker,28.7,6,5,1,Non-Smoker,28.4240779,8
+76,46,Male,Engineering,Engineer,9,2,Smoker,32.6,7,7,2,Smoker,30.47066957,9
+77,53,Male,Finance,Financial Analyst,6,4,Non-Smoker,26.4,10,6,4,Non-Smoker,24.83839991,10
+78,46,Male,HR,HR Manager,7,4,Non-Smoker,33.3,5,7,6,Non-Smoker,31.17983494,8
+79,44,Female,Finance,Financial Analyst,7,1,Smoker,21.3,9,4,4,Non-Smoker,20.98497047,10
+80,56,Male,Engineering,Senior Engineer,7,2,Non-Smoker,28.7,5,7,3,Non-Smoker,27.02937097,5
+81,61,Female,Finance,Accountant,6,2,Non-Smoker,30.4,10,3,3,Non-Smoker,28.88016742,10
+82,51,Male,Finance,Financial Analyst,6,0,Non-Smoker,21.6,8,6,3,Non-Smoker,19.23583411,10
+83,33,Female,Engineering,Senior Engineer,6,1,Smoker,27.9,5,4,4,Smoker,26.44843893,8
+84,52,Male,Sales,Sales Executive,10,3,Non-Smoker,29.6,6,7,5,Non-Smoker,28.84216787,7
+85,51,Male,Engineering,Senior Engineer,7,5,Non-Smoker,33.7,8,6,7,Non-Smoker,31.36305216,10
+86,56,Male,HR,HR Manager,9,2,Non-Smoker,23.9,6,9,5,Non-Smoker,21.78910159,7
+87,35,Female,Finance,Financial Analyst,6,3,Non-Smoker,27.5,6,5,5,Non-Smoker,26.43856661,6
+88,50,Female,Sales,Manager,6,1,Non-Smoker,18.6,5,6,2,Non-Smoker,18.5,7
+89,53,Male,Sales,Manager,5,3,Non-Smoker,24.6,6,3,6,Non-Smoker,22.67869962,7
+90,28,Male,Finance,Financial Analyst,10,3,Smoker,29,6,10,3,Smoker,28.36930795,9
+91,24,Female,HR,Recruiter,7,1,Non-Smoker,28.6,9,4,2,Non-Smoker,26.5699001,10
+92,44,Male,Finance,Financial Analyst,9,0,Smoker,32,4,9,0,Non-Smoker,29.94476148,4
+93,36,Male,Engineering,Senior Engineer,10,0,Smoker,20.4,4,7,2,Smoker,19.3566574,4
+94,42,Female,Sales,Sales Executive,7,4,Smoker,29.4,10,6,7,Smoker,27.10906014,10
+95,58,Male,Sales,Manager,10,0,Non-Smoker,21.8,8,7,2,Non-Smoker,21.62281082,9
+96,29,Female,Finance,Accountant,5,4,Smoker,28.2,10,2,5,Smoker,26.17475979,10
+97,31,Female,HR,HR Manager,9,3,Smoker,30,6,8,3,Smoker,28.78523882,6
+98,63,Female,HR,HR Manager,10,0,Smoker,27.2,5,7,3,Smoker,26.43691319,7
+99,65,Female,Finance,Financial Analyst,7,0,Smoker,24.6,10,7,0,Non-Smoker,23.05531542,10
+100,55,Female,HR,HR Manager,8,2,Smoker,30,7,6,5,Smoker,29.20186657,7
+101,31,Female,Sales,Sales Executive,7,4,Non-Smoker,26.3,8,4,4,Non-Smoker,24.66915797,9
+102,43,Female,Engineering,Senior Engineer,4,4,Smoker,22.3,4,2,7,Smoker,20.01037923,6
+103,33,Female,Engineering,Technician,8,0,Non-Smoker,26,8,6,2,Non-Smoker,24.57730242,9
+104,41,Male,HR,HR Manager,10,5,Smoker,19.8,6,10,6,Smoker,18.5,8
+105,38,Female,HR,HR Manager,6,0,Smoker,22.8,8,4,2,Smoker,21.75982505,8
+106,56,Male,Finance,Accountant,6,2,Non-Smoker,27.6,5,3,2,Non-Smoker,25.60847462,8
+107,61,Male,HR,Recruiter,4,0,Non-Smoker,18.9,4,4,2,Non-Smoker,18.5,5
+108,51,Male,Finance,Financial Analyst,4,0,Smoker,22,9,3,3,Non-Smoker,21.08145719,10
+109,36,Male,HR,HR Manager,6,2,Smoker,29,8,6,2,Smoker,27.78015358,10
+110,45,Male,Engineering,Senior Engineer,7,2,Smoker,30.3,7,6,3,Smoker,28.05912032,10
+111,44,Male,Sales,Manager,10,5,Non-Smoker,31.3,9,10,7,Non-Smoker,30.14044288,10
+112,64,Male,HR,HR Manager,7,1,Smoker,19.7,5,4,4,Smoker,19.17668,7
+113,28,Female,Finance,Accountant,6,0,Non-Smoker,20.1,9,4,1,Non-Smoker,18.5,10
+114,50,Female,Finance,Accountant,8,4,Smoker,34.1,6,7,7,Smoker,32.26467546,8
+115,36,Male,Finance,Financial Analyst,4,3,Non-Smoker,33.9,6,3,5,Non-Smoker,32.26826459,7
+116,44,Male,Engineering,Technician,8,4,Non-Smoker,33.7,9,5,4,Non-Smoker,33.18271446,10
+117,47,Male,Finance,Accountant,4,1,Non-Smoker,29.2,7,3,3,Non-Smoker,26.79807115,10
+118,59,Male,Sales,Sales Executive,4,4,Smoker,21.1,5,2,7,Smoker,21.08275709,5
+119,53,Male,HR,Recruiter,10,0,Non-Smoker,33.5,9,8,2,Non-Smoker,31.24458362,9
+120,28,Male,HR,Recruiter,7,5,Smoker,33.7,7,4,6,Smoker,33.47589285,9
+121,48,Female,HR,Recruiter,9,2,Non-Smoker,21.3,10,6,4,Non-Smoker,19.20726306,10
+122,63,Male,Engineering,Technician,6,5,Non-Smoker,19.7,4,5,7,Non-Smoker,18.5,7
+123,26,Female,Sales,Manager,7,0,Non-Smoker,27.8,6,5,3,Non-Smoker,26.29145767,7
+124,27,Male,Engineering,Engineer,10,5,Non-Smoker,24.5,4,9,5,Non-Smoker,22.47159752,5
+125,37,Female,HR,HR Manager,6,0,Smoker,26.1,9,4,2,Smoker,25.44256344,10
+126,45,Female,Sales,Manager,10,5,Smoker,26.2,6,10,5,Smoker,26.10013263,9
+127,53,Female,Engineering,Senior Engineer,4,5,Non-Smoker,31.4,9,2,7,Non-Smoker,31.05428159,10
+128,42,Female,Sales,Manager,5,4,Smoker,32.1,5,5,6,Smoker,31.83652542,6
+129,32,Female,Engineering,Technician,9,1,Smoker,23.2,4,9,2,Smoker,22.76148545,4
+130,57,Male,Engineering,Technician,6,0,Smoker,30.5,9,5,3,Non-Smoker,28.09705011,10
+131,65,Female,Finance,Financial Analyst,6,1,Smoker,26.7,7,6,2,Smoker,26.2149284,7
+132,40,Male,HR,Recruiter,9,2,Smoker,19.6,6,9,5,Smoker,18.76954808,8
+133,46,Male,Engineering,Senior Engineer,4,0,Non-Smoker,19.1,5,3,2,Non-Smoker,18.5,8
+134,60,Male,Engineering,Engineer,4,4,Smoker,22.4,6,1,4,Smoker,20.66633396,8
+135,47,Male,Engineering,Technician,4,1,Non-Smoker,22.1,10,4,1,Non-Smoker,21.38473353,10
+136,30,Male,Engineering,Engineer,10,5,Smoker,25.5,7,8,7,Smoker,24.75220187,8
+137,28,Male,Engineering,Senior Engineer,4,1,Non-Smoker,27.6,9,1,3,Non-Smoker,26.52511522,10
+138,55,Male,Finance,Accountant,5,0,Smoker,30.3,4,4,1,Smoker,29.3434271,6
+139,34,Male,Finance,Financial Analyst,5,2,Smoker,22.5,8,4,5,Smoker,20.23295871,8
+140,40,Male,HR,HR Manager,9,0,Smoker,33.3,9,7,0,Non-Smoker,31.96309675,10
+141,60,Female,Sales,Sales Executive,4,5,Smoker,26.5,10,3,7,Smoker,24.98148157,10
+142,25,Female,Sales,Manager,5,5,Non-Smoker,22.8,5,5,6,Non-Smoker,21.53906737,8
+143,22,Male,HR,Recruiter,10,5,Non-Smoker,23.8,8,8,6,Non-Smoker,22.53897324,10
+144,61,Male,HR,HR Manager,10,3,Non-Smoker,29.5,10,8,4,Non-Smoker,28.44087073,10
+145,51,Male,HR,Recruiter,7,5,Smoker,30.5,8,7,7,Smoker,29.95616325,10
+146,51,Female,Finance,Financial Analyst,4,0,Smoker,27.9,4,1,3,Smoker,27.10187445,5
+147,46,Female,HR,HR Manager,6,3,Non-Smoker,33,6,3,4,Non-Smoker,32.39594968,7
+148,37,Male,Engineering,Technician,10,5,Smoker,25.3,8,10,7,Smoker,25.29711904,10
+149,45,Female,Sales,Manager,6,1,Smoker,21.9,7,4,2,Smoker,21.3404571,10
+150,32,Male,Sales,Sales Executive,8,2,Smoker,26.3,5,5,2,Smoker,23.87708844,5
+151,41,Female,HR,Recruiter,9,5,Smoker,24.8,10,6,5,Smoker,23.71899284,10
+152,61,Male,Engineering,Senior Engineer,9,5,Non-Smoker,22.6,6,9,5,Non-Smoker,20.19173218,6
+153,24,Female,Finance,Financial Analyst,5,2,Smoker,33.8,6,5,5,Smoker,33.16044971,7
+154,50,Male,Finance,Accountant,7,4,Smoker,26.2,6,4,5,Smoker,25.86142365,6
+155,57,Male,Engineering,Technician,7,0,Smoker,18.7,10,7,2,Non-Smoker,18.5,10
+156,65,Male,Finance,Accountant,5,2,Smoker,34.1,9,3,4,Smoker,33.01687665,10
+157,43,Female,HR,HR Manager,4,0,Non-Smoker,24.7,8,3,2,Non-Smoker,22.54276468,10
+158,63,Female,Finance,Financial Analyst,5,3,Smoker,18.6,6,5,6,Smoker,18.5,6
+159,41,Male,Finance,Accountant,8,5,Non-Smoker,34.7,9,8,7,Non-Smoker,33.15422767,10
+160,32,Female,Sales,Sales Executive,5,5,Non-Smoker,24.7,8,3,6,Non-Smoker,22.59767342,10
+161,29,Female,HR,HR Manager,8,2,Smoker,34.8,8,8,3,Smoker,34.0793622,8
+162,42,Female,Finance,Financial Analyst,9,0,Smoker,20.8,10,9,0,Smoker,18.55217866,10
+163,23,Female,HR,HR Manager,4,2,Non-Smoker,27.8,5,1,5,Non-Smoker,27.44724189,6
+164,64,Female,Finance,Accountant,6,0,Non-Smoker,31.6,9,6,1,Non-Smoker,31.24520784,10
+165,34,Female,Sales,Manager,9,5,Non-Smoker,21.7,7,6,7,Non-Smoker,20.25108105,10
+166,27,Male,Sales,Sales Executive,7,2,Smoker,30.2,9,4,2,Smoker,27.71244808,10
+167,29,Female,HR,HR Manager,4,3,Smoker,27.8,9,1,4,Smoker,26.46630037,10
+168,65,Female,HR,Recruiter,4,0,Non-Smoker,18.7,5,4,2,Non-Smoker,18.5,6
+169,53,Female,Finance,Accountant,7,0,Smoker,22.7,8,4,0,Smoker,22.25720149,9
+170,57,Male,Engineering,Engineer,8,5,Non-Smoker,26.3,7,8,7,Non-Smoker,24.36362432,10
+171,35,Female,Engineering,Senior Engineer,5,1,Non-Smoker,33.8,7,4,3,Non-Smoker,32.17372224,10
+172,37,Female,Finance,Accountant,4,4,Smoker,34.9,6,1,6,Smoker,33.5095649,7
+173,44,Male,HR,Recruiter,4,1,Non-Smoker,22,10,2,1,Non-Smoker,20.13623212,10
+174,54,Female,Engineering,Senior Engineer,10,4,Non-Smoker,27.5,6,8,4,Non-Smoker,26.64196781,6
+175,61,Female,HR,Recruiter,5,2,Smoker,29.1,9,5,4,Smoker,28.12189943,10
+176,61,Male,HR,HR Manager,10,1,Non-Smoker,33.4,10,7,2,Non-Smoker,32.5195261,10
+177,31,Female,Engineering,Technician,7,3,Smoker,30.6,5,4,6,Smoker,29.04301974,6
+178,46,Male,HR,HR Manager,6,4,Smoker,28.6,4,6,6,Smoker,28.19813517,7
+179,29,Male,HR,HR Manager,6,5,Non-Smoker,22.2,8,4,5,Non-Smoker,21.58391117,10
+180,39,Female,Sales,Manager,9,0,Smoker,33.6,6,8,0,Smoker,31.2308277,8
+181,30,Female,HR,Recruiter,4,4,Non-Smoker,31.7,10,1,7,Non-Smoker,29.22914594,10
+182,28,Male,Sales,Sales Executive,10,0,Non-Smoker,23.7,6,10,3,Non-Smoker,22.36084255,6
+183,28,Female,Engineering,Technician,5,0,Smoker,22.2,9,3,3,Smoker,22.08673078,9
+184,31,Male,Finance,Accountant,8,1,Smoker,29.4,8,5,1,Smoker,27.89433386,9
+185,45,Male,Finance,Accountant,6,1,Smoker,30.6,8,5,1,Smoker,28.79580171,9
+186,44,Male,Sales,Sales Executive,5,0,Smoker,26.2,4,4,0,Smoker,24.74244281,6
+187,47,Female,HR,HR Manager,6,2,Non-Smoker,32.7,4,4,5,Non-Smoker,31.38381639,4
+188,64,Female,HR,HR Manager,6,0,Non-Smoker,29.6,8,5,2,Non-Smoker,28.71558314,9
+189,54,Male,Engineering,Engineer,10,1,Smoker,21.2,7,7,3,Smoker,20.99984554,7
+190,50,Male,Finance,Accountant,10,2,Smoker,18.7,5,10,5,Smoker,18.5,8
+191,31,Male,Finance,Accountant,5,0,Non-Smoker,32.8,4,5,3,Non-Smoker,31.88531153,7
+192,34,Male,Engineering,Engineer,6,0,Non-Smoker,20.2,5,6,2,Non-Smoker,18.69963376,6
+193,64,Female,Sales,Sales Executive,7,5,Smoker,23.7,5,7,7,Smoker,23.10539158,7
+194,32,Male,Engineering,Engineer,6,5,Smoker,25.7,6,6,7,Smoker,25.65463486,9
+195,46,Female,HR,HR Manager,6,1,Non-Smoker,28.7,8,5,2,Non-Smoker,27.92531768,8
+196,47,Female,HR,Recruiter,5,5,Non-Smoker,24.1,10,2,7,Non-Smoker,23.90496835,10
+197,28,Female,HR,Recruiter,8,3,Non-Smoker,28.1,10,8,5,Non-Smoker,27.47271894,10
+198,46,Female,Engineering,Technician,8,4,Non-Smoker,32.2,8,6,4,Non-Smoker,31.84781265,9
+199,44,Male,Sales,Manager,7,0,Smoker,24,9,7,0,Non-Smoker,23.07471313,10
+200,47,Female,Engineering,Senior Engineer,7,4,Non-Smoker,24.8,7,5,7,Non-Smoker,24.44908636,8
