@@ -1,4 +1,4 @@
-# Health Data Analysis
+# Worl Wellness Data Analysis  
 This project analyzes the effects of a 9-month workplace wellness program aimed at improving employee health through exercise, mental health support, and nutrition counseling. Using synthetic data for 200 employees, the analysis focuses on changes in stress levels, BMI, exercise frequency, and mental health before and after the program.
 
 🔍 Key Features:
